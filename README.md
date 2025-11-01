@@ -1,2 +1,2 @@
 # Meus-projetos
-Exercícios de programação do curso de ADS
+meus exercícios e projetos do curso de ADS
